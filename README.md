@@ -1,6 +1,8 @@
 # OneClickTrading
 Scripts for different exchanges that allow you to place a trade in one click
 
+NOTE:
+These scripts are very fast and have no saftey. Think of it like a loaded gun. If you lose millions, it's not my fault. That said, I use this constantly on GDAX. It's the shit.
 
 Setup:
 1. Open target site trading dashboard
