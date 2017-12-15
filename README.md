@@ -14,3 +14,14 @@ Setup:
 NOTE: To disable it simply refresh the page.
 
 https://gfycat.com/gifs/detail/MarriedFinishedBrownbear 
+
+If you're feeling generous enough to tip for my work my address is
+
+XVG Tips
+D6nEdFzHgLXgHu4dGyupzfDKMD2NUf8jaF 
+
+LTC Tips
+Le3DR644TKcPqvUAu6ZfCyBoyTc17Dnvxs
+
+BTC Tips
+1MbeYF9wFSNoarqCCcwrf4rB54SDaNLJQ5
